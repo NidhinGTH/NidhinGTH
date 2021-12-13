@@ -3,9 +3,8 @@
 
 ## Your short description
 - 🔭 I’m currently working on - My B-Tech Degree
-- 🌱 I’m currently learning - Flutter,Python,Java
-- 👯 I’m looking to collaborate with - Other developers in community.
-<!-- - 💬 Ask me about - Linux , Anytime -->
+- 🌱 I’m trying to learn - Flutter,Python,Java
+- 👯 I’m looking to collaborate with - Other developers in community.<!-- - 💬 Ask me about - Linux , Anytime -->
 - 🥅 2022 Goal - Learn more about web app development,UI/UX designing
 - ⚡ Fun fact - I'm fairly good with Google Dorking 
 
@@ -14,9 +13,9 @@
 [![Nidhin Saji's github stats](https://github-readme-stats.vercel.app/api?username=NidhinGTH&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
 <!-- ## Connect with me: -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br /> -->
+<br />
 
 <!-- Optional if you have blogs -->
 <!-- ## Latest blog posts: -->
