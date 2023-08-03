@@ -2,8 +2,7 @@
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
 ## Your short description
-- 🔭 I’m currently working on - My B-Tech Degree
-- 🌱 I’m trying to learn - Flutter,Python,Java
+- 🔭 An Engineer 
 - 👯 I’m looking to collaborate with - Other developers in community.<!-- - 💬 Ask me about - Linux , Anytime -->
 - 🥅 2022 Goal - Learn more about web app development,UI/UX designing
 - ⚡ Fun fact - I'm fairly good with Google Dorking 
