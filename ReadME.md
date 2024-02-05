@@ -3,7 +3,7 @@
 
 ## Your short description
 - 🔭 An Engineer
--👨‍💻 Full stack Developer
+👨‍💻 Full stack Developer
 - 👯 I’m looking to collaborate with - Other developers in community. 💬 curious about - Linux , Python
 - 🥅 2024 Goal - exploring more on Python,Django,Angular
 - ⚡ Fun fact - I'm fairly good with Google Dorking 
