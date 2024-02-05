@@ -2,9 +2,10 @@
 <!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
 ## Your short description
-- 🔭 An Engineer 
-- 👯 I’m looking to collaborate with - Other developers in community.<!-- - 💬 Ask me about - Linux , Anytime -->
-- 🥅 2022 Goal - Learn more about web app development,UI/UX designing
+- 🔭 An Engineer
+-👨‍💻 Full stack Developer
+- 👯 I’m looking to collaborate with - Other developers in community. 💬 curious about - Linux , Python
+- 🥅 2024 Goal - exploring more on Python,Django,Angular
 - ⚡ Fun fact - I'm fairly good with Google Dorking 
 
 <!-- ❔❔❔❔ means username in below README.md -->
